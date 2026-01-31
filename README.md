@@ -16,3 +16,6 @@ Scikit-learn
 
 ## Outcome:
 After a detailed analysis of the dataset, this project successfully predicts heating and cooling loads for different designs.
+
+## Public API:
+I also deployed the model with FastAPI
